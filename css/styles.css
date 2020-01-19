@@ -69,7 +69,7 @@ TABLE OF CONTENT
 /*------------------
  a) block-section
 --------------------*/
-.preloader {
+#preloader {
 	display: none !important;
 }
 
