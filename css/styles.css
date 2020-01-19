@@ -69,6 +69,10 @@ TABLE OF CONTENT
 /*------------------
  a) block-section
 --------------------*/
+.preloader {
+	display: none !important;
+}
+
 .block-section {
 	padding: 90px 0px 90px 0px;
 }
